@@ -9,4 +9,5 @@ This project uses Machine Learning (Random Forest) to recommend the best crop ba
 
 ## How to Run
 pip install customtkinter, pandas, numpy, matplotlib, scikit-learn  
-python miniproject.py
+Save the file with extension .py
+You are good to go
